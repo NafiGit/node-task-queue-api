@@ -1,0 +1,248 @@
+2024-09-12T09:43:22.905Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.035Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.165Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.293Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.422Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.545Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.677Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.805Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:23.924Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.042Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.162Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.287Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.419Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.545Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.673Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.789Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:24.909Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.030Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.157Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.288Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.419Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.545Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.664Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.785Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:43:25.912Z [error]: Error processing task for user 1: The client is closed
+2024-09-12T09:47:45.853Z [error]: Error in queue processing: Could not remove job 112
+2024-09-12T09:47:45.975Z [error]: Error in queue processing: Could not remove job 114
+2024-09-12T09:47:46.105Z [error]: Error in queue processing: Could not remove job 116
+2024-09-12T09:47:46.242Z [error]: Error in queue processing: Could not remove job 118
+2024-09-12T09:47:46.378Z [error]: Error in queue processing: Could not remove job 120
+2024-09-12T09:47:46.510Z [error]: Error in queue processing: Could not remove job 122
+2024-09-12T09:47:46.659Z [error]: Error in queue processing: Could not remove job 124
+2024-09-12T09:47:46.905Z [error]: Error in queue processing: Could not remove job 126
+2024-09-12T09:47:47.029Z [error]: Error in queue processing: Could not remove job 128
+2024-09-12T09:47:47.153Z [error]: Error in queue processing: Could not remove job 130
+2024-09-12T09:47:47.297Z [error]: Error in queue processing: Could not remove job 132
+2024-09-12T09:47:47.433Z [error]: Error in queue processing: Could not remove job 134
+2024-09-12T09:47:47.552Z [error]: Error in queue processing: Could not remove job 136
+2024-09-12T09:47:47.683Z [error]: Error in queue processing: Could not remove job 138
+2024-09-12T09:47:47.929Z [error]: Error in queue processing: Could not remove job 140
+2024-09-12T09:47:48.048Z [error]: Error in queue processing: Could not remove job 142
+2024-09-12T09:47:48.170Z [error]: Error in queue processing: Could not remove job 144
+2024-09-12T09:47:48.288Z [error]: Error in queue processing: Could not remove job 146
+2024-09-12T09:47:48.413Z [error]: Error in queue processing: Could not remove job 148
+2024-09-12T09:47:48.539Z [error]: Error in queue processing: Could not remove job 150
+2024-09-12T09:47:48.666Z [error]: Error in queue processing: Could not remove job 152
+2024-09-12T09:47:48.801Z [error]: Error in queue processing: Could not remove job 154
+2024-09-12T09:51:05.849Z [error]: Error in queue processing: Could not remove job 156
+2024-09-12T09:51:07.047Z [error]: Error in queue processing: Could not remove job 158
+2024-09-12T09:51:07.158Z [error]: Error in queue processing: Could not remove job 160
+2024-09-12T09:51:07.272Z [error]: Error in queue processing: Could not remove job 162
+2024-09-12T09:51:07.385Z [error]: Error in queue processing: Could not remove job 164
+2024-09-12T09:51:07.500Z [error]: Error in queue processing: Could not remove job 166
+2024-09-12T09:51:07.610Z [error]: Error in queue processing: Could not remove job 168
+2024-09-12T09:51:07.715Z [error]: Error in queue processing: Could not remove job 170
+2024-09-12T09:51:07.823Z [error]: Error in queue processing: Could not remove job 172
+2024-09-12T09:51:07.929Z [error]: Error in queue processing: Could not remove job 174
+2024-09-12T09:51:08.145Z [error]: Error in queue processing: Could not remove job 176
+2024-09-12T09:51:08.255Z [error]: Error in queue processing: Could not remove job 178
+2024-09-12T09:51:08.362Z [error]: Error in queue processing: Could not remove job 180
+2024-09-12T09:51:08.467Z [error]: Error in queue processing: Could not remove job 182
+2024-09-12T09:51:08.573Z [error]: Error in queue processing: Could not remove job 184
+2024-09-12T09:51:08.681Z [error]: Error in queue processing: Could not remove job 186
+2024-09-12T09:51:08.786Z [error]: Error in queue processing: Could not remove job 188
+2024-09-12T09:51:08.892Z [error]: Error in queue processing: Could not remove job 190
+2024-09-12T09:51:09.000Z [error]: Error in queue processing: Could not remove job 192
+2024-09-12T09:51:09.210Z [error]: Error in queue processing: Could not remove job 194
+2024-09-12T09:51:09.314Z [error]: Error in queue processing: Could not remove job 196
+2024-09-12T09:51:09.422Z [error]: Error in queue processing: Could not remove job 198
+2024-09-12T09:51:09.529Z [error]: Error in queue processing: Could not remove job 200
+2024-09-12T09:51:37.481Z [error]: Error in queue processing: Could not remove job 202
+2024-09-12T09:51:38.649Z [error]: Error in queue processing: Could not remove job 204
+2024-09-12T09:51:38.752Z [error]: Error in queue processing: Could not remove job 206
+2024-09-12T09:51:38.753Z [error]: Error in queue processing: Could not remove job 207
+2024-09-12T09:51:38.754Z [error]: Error in queue processing: Could not remove job 208
+2024-09-12T09:56:38.876Z [error]: Error in queue processing: Could not remove job 212
+2024-09-12T09:56:39.003Z [error]: Error in queue processing: Could not remove job 214
+2024-09-12T09:56:39.131Z [error]: Error in queue processing: Could not remove job 216
+2024-09-12T09:56:39.262Z [error]: Error in queue processing: Could not remove job 218
+2024-09-12T09:56:39.396Z [error]: Error in queue processing: Could not remove job 220
+2024-09-12T09:56:39.533Z [error]: Error in queue processing: Could not remove job 222
+2024-09-12T09:56:39.665Z [error]: Error in queue processing: Could not remove job 224
+2024-09-12T09:56:39.957Z [error]: Error in queue processing: Could not remove job 226
+2024-09-12T09:56:40.085Z [error]: Error in queue processing: Could not remove job 228
+2024-09-12T09:56:40.212Z [error]: Error in queue processing: Could not remove job 230
+2024-09-12T09:56:40.342Z [error]: Error in queue processing: Could not remove job 232
+2024-09-12T09:56:40.459Z [error]: Error in queue processing: Could not remove job 234
+2024-09-12T09:56:40.592Z [error]: Error in queue processing: Could not remove job 236
+2024-09-12T09:56:40.719Z [error]: Error in queue processing: Could not remove job 238
+2024-09-12T09:56:41.025Z [error]: Error in queue processing: Could not remove job 240
+2024-09-12T09:56:41.156Z [error]: Error in queue processing: Could not remove job 242
+2024-09-12T09:56:41.284Z [error]: Error in queue processing: Could not remove job 244
+2024-09-12T09:56:41.404Z [error]: Error in queue processing: Could not remove job 246
+2024-09-12T09:56:41.532Z [error]: Error in queue processing: Could not remove job 248
+2024-09-12T09:56:41.662Z [error]: Error in queue processing: Could not remove job 250
+2024-09-12T09:56:41.792Z [error]: Error in queue processing: Could not remove job 252
+2024-09-12T09:57:06.972Z [error]: Error in queue processing: Could not remove job 254
+2024-09-12T09:57:08.303Z [error]: Error in queue processing: Could not remove job 256
+2024-09-12T09:57:08.415Z [error]: Error in queue processing: Could not remove job 258
+2024-09-12T09:57:08.524Z [error]: Error in queue processing: Could not remove job 260
+2024-09-12T09:57:08.636Z [error]: Error in queue processing: Could not remove job 262
+2024-09-12T09:57:08.749Z [error]: Error in queue processing: Could not remove job 264
+2024-09-12T09:57:08.858Z [error]: Error in queue processing: Could not remove job 266
+2024-09-12T09:57:08.966Z [error]: Error in queue processing: Could not remove job 268
+2024-09-12T09:57:09.075Z [error]: Error in queue processing: Could not remove job 270
+2024-09-12T09:57:09.341Z [error]: Error in queue processing: Could not remove job 272
+2024-09-12T09:57:09.449Z [error]: Error in queue processing: Could not remove job 274
+2024-09-12T09:57:09.555Z [error]: Error in queue processing: Could not remove job 276
+2024-09-12T09:57:09.661Z [error]: Error in queue processing: Could not remove job 278
+2024-09-12T09:57:09.763Z [error]: Error in queue processing: Could not remove job 280
+2024-09-12T09:57:09.867Z [error]: Error in queue processing: Could not remove job 282
+2024-09-12T09:57:09.975Z [error]: Error in queue processing: Could not remove job 284
+2024-09-12T09:57:10.084Z [error]: Error in queue processing: Could not remove job 286
+2024-09-12T09:57:10.349Z [error]: Error in queue processing: Could not remove job 288
+2024-09-12T09:57:10.651Z [error]: Error in queue processing: Could not remove job 290
+2024-09-12T09:57:10.753Z [error]: Error in queue processing: Could not remove job 292
+2024-09-12T09:57:10.857Z [error]: Error in queue processing: Could not remove job 294
+2024-09-12T09:57:10.965Z [error]: Error in queue processing: Could not remove job 296
+2024-09-12T09:57:11.072Z [error]: Error in queue processing: Could not remove job 298
+2024-09-12T10:02:02.580Z [error]: Error in queue processing: Could not remove job 300
+2024-09-12T10:02:02.707Z [error]: Error in queue processing: Could not remove job 302
+2024-09-12T10:02:02.836Z [error]: Error in queue processing: Could not remove job 304
+2024-09-12T10:02:02.983Z [error]: Error in queue processing: Could not remove job 306
+2024-09-12T10:02:03.119Z [error]: Error in queue processing: Could not remove job 308
+2024-09-12T10:02:03.250Z [error]: Error in queue processing: Could not remove job 310
+2024-09-12T10:02:03.556Z [error]: Error in queue processing: Could not remove job 312
+2024-09-12T10:02:03.679Z [error]: Error in queue processing: Could not remove job 314
+2024-09-12T10:02:03.804Z [error]: Error in queue processing: Could not remove job 316
+2024-09-12T10:02:03.932Z [error]: Error in queue processing: Could not remove job 318
+2024-09-12T10:02:04.062Z [error]: Error in queue processing: Could not remove job 320
+2024-09-12T10:02:04.195Z [error]: Error in queue processing: Could not remove job 322
+2024-09-12T10:02:04.327Z [error]: Error in queue processing: Could not remove job 324
+2024-09-12T10:02:04.644Z [error]: Error in queue processing: Could not remove job 326
+2024-09-12T10:02:04.775Z [error]: Error in queue processing: Could not remove job 328
+2024-09-12T10:02:04.901Z [error]: Error in queue processing: Could not remove job 330
+2024-09-12T10:02:05.030Z [error]: Error in queue processing: Could not remove job 332
+2024-09-12T10:02:05.160Z [error]: Error in queue processing: Could not remove job 334
+2024-09-12T10:02:05.288Z [error]: Error in queue processing: Could not remove job 336
+2024-09-12T10:02:05.416Z [error]: Error in queue processing: Could not remove job 338
+2024-09-12T10:02:05.732Z [error]: Error in queue processing: Could not remove job 340
+2024-09-12T10:02:12.006Z [error]: Error in queue processing: Could not remove job 342
+2024-09-12T10:02:13.335Z [error]: Error in queue processing: Could not remove job 344
+2024-09-12T10:02:13.439Z [error]: Error in queue processing: Could not remove job 346
+2024-09-12T10:02:13.543Z [error]: Error in queue processing: Could not remove job 348
+2024-09-12T10:02:13.652Z [error]: Error in queue processing: Could not remove job 350
+2024-09-12T10:02:13.773Z [error]: Error in queue processing: Could not remove job 352
+2024-09-12T10:02:13.884Z [error]: Error in queue processing: Could not remove job 354
+2024-09-12T10:02:13.986Z [error]: Error in queue processing: Could not remove job 356
+2024-09-12T10:02:14.092Z [error]: Error in queue processing: Could not remove job 358
+2024-09-12T10:02:14.354Z [error]: Error in queue processing: Could not remove job 360
+2024-09-12T10:02:14.458Z [error]: Error in queue processing: Could not remove job 362
+2024-09-12T10:02:14.570Z [error]: Error in queue processing: Could not remove job 364
+2024-09-12T10:02:14.674Z [error]: Error in queue processing: Could not remove job 366
+2024-09-12T10:02:14.780Z [error]: Error in queue processing: Could not remove job 368
+2024-09-12T10:02:14.886Z [error]: Error in queue processing: Could not remove job 370
+2024-09-12T10:02:15.003Z [error]: Error in queue processing: Could not remove job 372
+2024-09-12T10:02:15.101Z [error]: Error in queue processing: Could not remove job 374
+2024-09-12T10:02:15.368Z [error]: Error in queue processing: Could not remove job 376
+2024-09-12T10:02:15.474Z [error]: Error in queue processing: Could not remove job 378
+2024-09-12T10:02:15.581Z [error]: Error in queue processing: Could not remove job 380
+2024-09-12T10:02:15.687Z [error]: Error in queue processing: Could not remove job 382
+2024-09-12T10:02:15.795Z [error]: Error in queue processing: Could not remove job 384
+2024-09-12T10:02:15.902Z [error]: Error in queue processing: Could not remove job 386
+2024-09-12T10:03:16.214Z [error]: Error in queue processing: Could not remove job 388
+2024-09-12T10:03:16.316Z [error]: Error in queue processing: Could not remove job 390
+2024-09-12T10:03:16.419Z [error]: Error in queue processing: Could not remove job 392
+2024-09-12T10:03:16.523Z [error]: Error in queue processing: Could not remove job 394
+2024-09-12T10:03:49.447Z [error]: Could not remove job 396: Could not remove job 396
+2024-09-12T10:03:50.781Z [error]: Could not remove job 398: Could not remove job 398
+2024-09-12T10:03:50.889Z [error]: Could not remove job 400: Could not remove job 400
+2024-09-12T10:03:50.999Z [error]: Could not remove job 402: Could not remove job 402
+2024-09-12T10:03:51.108Z [error]: Could not remove job 404: Could not remove job 404
+2024-09-12T10:03:51.216Z [error]: Could not remove job 406: Could not remove job 406
+2024-09-12T10:03:51.325Z [error]: Could not remove job 408: Could not remove job 408
+2024-09-12T10:03:51.437Z [error]: Could not remove job 410: Could not remove job 410
+2024-09-12T10:03:51.545Z [error]: Could not remove job 412: Could not remove job 412
+2024-09-12T10:03:51.812Z [error]: Could not remove job 414: Could not remove job 414
+2024-09-12T10:03:51.919Z [error]: Could not remove job 416: Could not remove job 416
+2024-09-12T10:03:52.025Z [error]: Could not remove job 418: Could not remove job 418
+2024-09-12T10:03:52.133Z [error]: Could not remove job 420: Could not remove job 420
+2024-09-12T10:03:52.240Z [error]: Could not remove job 422: Could not remove job 422
+2024-09-12T10:03:52.348Z [error]: Could not remove job 424: Could not remove job 424
+2024-09-12T10:03:52.455Z [error]: Could not remove job 426: Could not remove job 426
+2024-09-12T10:03:52.563Z [error]: Could not remove job 428: Could not remove job 428
+2024-09-12T10:03:52.831Z [error]: Could not remove job 430: Could not remove job 430
+2024-09-12T10:03:52.937Z [error]: Could not remove job 432: Could not remove job 432
+2024-09-12T10:03:53.044Z [error]: Could not remove job 434: Could not remove job 434
+2024-09-12T10:03:53.151Z [error]: Could not remove job 436: Could not remove job 436
+2024-09-12T10:03:53.258Z [error]: Could not remove job 438: Could not remove job 438
+2024-09-12T10:03:53.366Z [error]: Could not remove job 440: Could not remove job 440
+2024-09-12T10:04:53.662Z [error]: Could not remove job 442: Could not remove job 442
+2024-09-12T10:04:53.769Z [error]: Could not remove job 444: Could not remove job 444
+2024-09-12T10:04:53.878Z [error]: Could not remove job 446: Could not remove job 446
+2024-09-12T10:04:53.988Z [error]: Could not remove job 448: Could not remove job 448
+2024-09-12T10:20:56.820Z [error]: Error in queue processing: Could not remove job 450
+2024-09-12T10:20:58.150Z [error]: Error in queue processing: Could not remove job 452
+2024-09-12T10:20:58.256Z [error]: Error in queue processing: Could not remove job 454
+2024-09-12T10:20:58.364Z [error]: Error in queue processing: Could not remove job 456
+2024-09-12T10:20:58.476Z [error]: Error in queue processing: Could not remove job 458
+2024-09-12T10:20:58.586Z [error]: Error in queue processing: Could not remove job 460
+2024-09-12T10:20:58.754Z [error]: Error in queue processing: Could not remove job 462
+2024-09-12T10:20:58.858Z [error]: Error in queue processing: Could not remove job 464
+2024-09-12T10:20:58.980Z [error]: Error in queue processing: Could not remove job 466
+2024-09-12T10:20:59.245Z [error]: Error in queue processing: Could not remove job 468
+2024-09-12T10:20:59.352Z [error]: Error in queue processing: Could not remove job 470
+2024-09-12T10:20:59.459Z [error]: Error in queue processing: Could not remove job 472
+2024-09-12T10:20:59.566Z [error]: Error in queue processing: Could not remove job 474
+2024-09-12T10:20:59.673Z [error]: Error in queue processing: Could not remove job 476
+2024-09-12T10:20:59.780Z [error]: Error in queue processing: Could not remove job 478
+2024-09-12T10:20:59.886Z [error]: Error in queue processing: Could not remove job 480
+2024-09-12T10:20:59.994Z [error]: Error in queue processing: Could not remove job 482
+2024-09-12T10:21:00.263Z [error]: Error in queue processing: Could not remove job 484
+2024-09-12T10:21:00.368Z [error]: Error in queue processing: Could not remove job 486
+2024-09-12T10:21:00.475Z [error]: Error in queue processing: Could not remove job 488
+2024-09-12T10:21:00.581Z [error]: Error in queue processing: Could not remove job 490
+2024-09-12T10:21:00.700Z [error]: Error in queue processing: Could not remove job 492
+2024-09-12T10:21:00.806Z [error]: Error in queue processing: Could not remove job 494
+2024-09-12T10:22:01.186Z [error]: Error in queue processing: Could not remove job 496
+2024-09-12T10:22:01.279Z [error]: Error in queue processing: Could not remove job 498
+2024-09-12T10:22:01.383Z [error]: Error in queue processing: Could not remove job 500
+2024-09-12T10:22:01.494Z [error]: Error in queue processing: Could not remove job 502
+2024-09-12T10:33:16.383Z [error]: Error in queue processing: Could not remove job 504
+2024-09-12T10:33:17.696Z [error]: Error in queue processing: Could not remove job 506
+2024-09-12T10:33:17.799Z [error]: Error in queue processing: Could not remove job 508
+2024-09-12T10:33:17.908Z [error]: Error in queue processing: Could not remove job 510
+2024-09-12T10:33:18.021Z [error]: Error in queue processing: Could not remove job 512
+2024-09-12T10:33:18.132Z [error]: Error in queue processing: Could not remove job 514
+2024-09-12T10:33:18.237Z [error]: Error in queue processing: Could not remove job 516
+2024-09-12T10:33:18.344Z [error]: Error in queue processing: Could not remove job 518
+2024-09-12T10:33:18.453Z [error]: Error in queue processing: Could not remove job 520
+2024-09-12T10:33:18.718Z [error]: Error in queue processing: Could not remove job 522
+2024-09-12T10:33:18.825Z [error]: Error in queue processing: Could not remove job 524
+2024-09-12T10:33:18.930Z [error]: Error in queue processing: Could not remove job 526
+2024-09-12T10:33:19.038Z [error]: Error in queue processing: Could not remove job 528
+2024-09-12T10:33:19.146Z [error]: Error in queue processing: Could not remove job 530
+2024-09-12T10:33:19.249Z [error]: Error in queue processing: Could not remove job 532
+2024-09-12T10:33:19.355Z [error]: Error in queue processing: Could not remove job 534
+2024-09-12T10:33:19.462Z [error]: Error in queue processing: Could not remove job 536
+2024-09-12T10:33:19.723Z [error]: Error in queue processing: Could not remove job 538
+2024-09-12T10:33:19.830Z [error]: Error in queue processing: Could not remove job 540
+2024-09-12T10:33:19.937Z [error]: Error in queue processing: Could not remove job 542
+2024-09-12T10:33:20.043Z [error]: Error in queue processing: Could not remove job 544
+2024-09-12T10:33:20.149Z [error]: Error in queue processing: Could not remove job 546
+2024-09-12T10:33:20.256Z [error]: Error in queue processing: Could not remove job 548
+2024-09-12T10:34:20.623Z [error]: Error in queue processing: Could not remove job 550
+2024-09-12T10:34:20.728Z [error]: Error in queue processing: Could not remove job 552
+2024-09-12T10:34:20.848Z [error]: Error in queue processing: Could not remove job 554
+2024-09-12T10:34:20.961Z [error]: Error in queue processing: Could not remove job 556
